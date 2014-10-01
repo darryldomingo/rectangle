@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Rectangle
+#
+
+projectname: Rectangle
+vendorid: com.darryl.game
+mainmodule: com.darryl.game.rectangle
